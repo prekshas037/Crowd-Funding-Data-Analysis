@@ -10,7 +10,6 @@ It compares analysis and visualization across **Excel, SQL, Power BI, and Tablea
 ---
 
 ## 🗂️ Dataset
-- Source: [Provide link if from Kaggle or other site]
 - Records: 360,000 projects
 - Key Features: project goals, category, location, outcomes, backers, pledged amount, dates
 
